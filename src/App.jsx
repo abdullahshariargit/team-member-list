@@ -6,7 +6,7 @@ const members=[
     id: 1,
     name: 'MD.JAKARIA',
     role: 'Lecturer Arabic',
-    image: '/Lecturer-arabic.jpg', // Local image path
+    image: '/lecturer-arabic.jpg', // Local image path
   },
   {
     id: 2,
@@ -18,31 +18,31 @@ const members=[
     id: 3,
     name: 'MD. HASHIBUL ISLAM',
     role: 'Assisatant Teacher Bengali',
-    image: '/Assistant-Teacher-Bengali.jpg', 
+    image: '/assistant-Teacher-Bengali.jpg', 
   },
   {
     id: 4,
     name: 'NAYEEMA ISLAM',
     role: 'Assisatant Teacher English',
-    image: '/Assistant-Teacher-English.jpg',
+    image: '/assistant-Teacher-English.jpg',
   },
   {
     id: 5,
     name: 'HAFIZA SIKDER',
     role: 'Assistant Teacher, Physical Science',
-    image: '/Assistant-Teacher-Physcail-Science.jpg',
+    image: '/assistant-Teacher-Physcail-Science.jpg',
   },
   {
     id: 6,
     name: 'RABIUL ISLAM',
     role: 'Assisatant Teacher Social Science',
-    image: '/Assistant-teacher-Social-Science.jpg',
+    image: '/assistant-teacher-Social-Science.jpg',
   },
   {
     id: 7,
     name: 'MD.ABDUL AWAL',
     role: 'Ebtedayee Teacher  Bengali & English',
-    image: '/Ebtedaye-Teacher-General.jpg',
+    image: '/ebtedaye-Teacher-General.jpg',
   },
   
 ];
