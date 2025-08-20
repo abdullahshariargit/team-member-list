@@ -18,31 +18,31 @@ const members=[
     id: 3,
     name: 'MD. HASHIBUL ISLAM',
     role: 'Assisatant Teacher Bengali',
-    image: '/assistant-Teacher-Bengali.jpg', 
+    image: '/bengali.jpg', 
   },
   {
     id: 4,
     name: 'NAYEEMA ISLAM',
     role: 'Assisatant Teacher English',
-    image: '/assistant-Teacher-English.jpg',
+    image: '/english.jpg',
   },
   {
     id: 5,
     name: 'HAFIZA SIKDER',
     role: 'Assistant Teacher, Physical Science',
-    image: '/assistant-Teacher-Physcail-Science.jpg',
+    image: '/science.jpg',
   },
   {
     id: 6,
     name: 'RABIUL ISLAM',
     role: 'Assisatant Teacher Social Science',
-    image: '/assistant-teacher-Social-Science.jpg',
+    image: '/social.jpg',
   },
   {
     id: 7,
     name: 'MD.ABDUL AWAL',
     role: 'Ebtedayee Teacher  Bengali & English',
-    image: '/ebtedaye-Teacher-General.jpg',
+    image: '/ebtedaye.jpg',
   },
   
 ];
