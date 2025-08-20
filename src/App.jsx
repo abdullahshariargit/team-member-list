@@ -6,43 +6,43 @@ const members=[
     id: 1,
     name: 'MD.JAKARIA',
     role: 'Lecturer Arabic',
-    image: 'https://upcoming-teachers-pam-ls5i.vercel.app/public/Lecturer-arabic.jpg', // Local image path
+    image: '/Lecturer-arabic.jpg', // Local image path
   },
   {
     id: 2,
     name: 'UMMA JANNATUL FERDUSE',
     role: 'Lecturer ICT',
-    image: './public/lecturer-ICT.jpg', 
+    image: '/lecturer-ICT.jpg', 
   },
   {
     id: 3,
     name: 'MD. HASHIBUL ISLAM',
     role: 'Assisatant Teacher Bengali',
-    image: 'https://upcoming-teachers-pam-ls5i.vercel.app/public/Assistant-Teacher-Bengali.jpg', 
+    image: '/Assistant-Teacher-Bengali.jpg', 
   },
   {
     id: 4,
     name: 'NAYEEMA ISLAM',
     role: 'Assisatant Teacher English',
-    image: './public/Assistant-Teacher-English.jpg',
+    image: '/Assistant-Teacher-English.jpg',
   },
   {
     id: 5,
     name: 'HAFIZA SIKDER',
     role: 'Assistant Teacher, Physical Science',
-    image: './public/Assistant-Teacher-Physcail-Science.jpg',
+    image: '/Assistant-Teacher-Physcail-Science.jpg',
   },
   {
     id: 6,
     name: 'RABIUL ISLAM',
     role: 'Assisatant Teacher Social Science',
-    image: './public/Assistant-teacher-Social-Science.jpg',
+    image: '/Assistant-teacher-Social-Science.jpg',
   },
   {
     id: 7,
     name: 'MD.ABDUL AWAL',
     role: 'Ebtedayee Teacher  Bengali & English',
-    image: './public/Ebtedaye-Teacher-General.jpg',
+    image: '/Ebtedaye-Teacher-General.jpg',
   },
   
 ];
