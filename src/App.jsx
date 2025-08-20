@@ -6,7 +6,7 @@ const members=[
     id: 1,
     name: 'MD.JAKARIA',
     role: 'Lecturer Arabic',
-    image: '/lecturer-arabic.jpg', // Local image path
+    image: '/arabic.jpg', // Local image path
   },
   {
     id: 2,
