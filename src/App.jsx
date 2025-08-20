@@ -6,7 +6,7 @@ const members=[
     id: 1,
     name: 'MD.JAKARIA',
     role: 'Lecturer Arabic',
-    image: './public/Lecturer-arabic.jpg', // Local image path
+    image: 'https://upcoming-teachers-pam-ls5i.vercel.app/public/Lecturer-arabic.jpg', // Local image path
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const members=[
     id: 3,
     name: 'MD. HASHIBUL ISLAM',
     role: 'Assisatant Teacher Bengali',
-    image: './public/Assistant-Teacher-Bengali.jpg', 
+    image: 'https://upcoming-teachers-pam-ls5i.vercel.app/public/Assistant-Teacher-Bengali.jpg', 
   },
   {
     id: 4,
